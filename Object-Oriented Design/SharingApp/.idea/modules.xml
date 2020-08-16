@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FUy5nWrCEem7ixL_6m9HFg_0131bd355246435fb7ac24af1d12b6ec_SharingApp_c1_items_only-SharingApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FUy5nWrCEem7ixL_6m9HFg_0131bd355246435fb7ac24af1d12b6ec_SharingApp_c1_items_only-SharingApp.iml" group="SharingApp" />
+      <module fileurl="file://$PROJECT_DIR$/SharingApp.iml" filepath="$PROJECT_DIR$/SharingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SharingApp-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SharingApp-app.iml" group="SharingApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
